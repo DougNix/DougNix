@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DougNix
-- 👀 I’m interested in Obsidian, WordPress and related, and Zotero
+- 👀 I’m interested in AI for functional safety applications, Obsidian, WordPress and related, and Zotero
 - 🌱 I’m currently learning PHP and SQL
 - 💞️ I’m looking to collaborate on nothing at the moment
 - 📫 How to reach me https://keybase.io/sceletio
